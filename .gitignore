@@ -12,10 +12,6 @@ env/
 .micromamba/
 
 # datasets
-data/
-data_local/
-datasets/
-*.mp4
 *.avi
 *.mov
 *.mkv
