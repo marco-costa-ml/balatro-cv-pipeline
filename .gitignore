@@ -1,0 +1,46 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# environments
+.env
+.venv
+venv/
+env/
+.micromamba/
+
+# datasets
+data/
+data_local/
+datasets/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# model weights
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.engine
+
+# logs
+logs/
+*.log
+
+# jupyter
+.ipynb_checkpoints
+
+# mac / linux junk
+.DS_Store
+Thumbs.db
+
+# vscode
+.vscode/
+
+# temporary files
+tmp/
+temp/

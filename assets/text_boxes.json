@@ -1,0 +1,131 @@
+{
+  "image": "/Users/marco/Desktop/BOTLOTRO/frames/example.png",
+  "boxes": [
+    {
+      "bbox": [
+        68,
+        130,
+        166,
+        155
+      ],
+      "label": "round_score"
+    },
+    {
+      "bbox": [
+        86,
+        246,
+        111,
+        265
+      ],
+      "label": "hands_left"
+    },
+    {
+      "bbox": [
+        130,
+        246,
+        156,
+        265
+      ],
+      "label": "discards_left"
+    },
+    {
+      "bbox": [
+        87,
+        278,
+        155,
+        300
+      ],
+      "label": "dollars"
+    },
+    {
+      "bbox": [
+        83,
+        321,
+        121,
+        341
+      ],
+      "label": "ante"
+    },
+    {
+      "bbox": [
+        128,
+        318,
+        162,
+        343
+      ],
+      "label": "round"
+    },
+    {
+      "bbox": [
+        173,
+        89,
+        196,
+        101
+      ],
+      "label": "joker_values"
+    },
+    {
+      "bbox": [
+        567,
+        90,
+        592,
+        102
+      ],
+      "label": "consumable_values"
+    },
+    {
+      "bbox": [
+        340,
+        340,
+        356,
+        350
+      ],
+      "label": "hand_values"
+    },
+    {
+      "bbox": [
+        551,
+        337,
+        582,
+        350
+      ],
+      "label": "deck_values"
+    },
+    {
+      "bbox": [
+        290,
+        312,
+        407,
+        332
+      ],
+      "label": "pack_type"
+    },
+    {
+      "bbox": [
+        319,
+        335,
+        376,
+        346
+      ],
+      "label": "pack_choose"
+    },
+    {
+      "bbox": [
+        256,
+        132,
+        441,
+        167
+      ],
+      "label": "cash_out"
+    },
+    {
+      "bbox": [
+        211,
+        192,
+        258,
+        210
+      ],
+      "label": "reroll_price"
+    }
+  ]
+}

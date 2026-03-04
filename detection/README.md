@@ -1,0 +1,1 @@
+![Detection Example](assets/synthetic_detection_example.png)

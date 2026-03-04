@@ -1,0 +1,35 @@
+PaddleOCR Benchmark Results
+
+benchmarking OCR only...
+OCR only total time: 7.760s
+OCR fps: 6.44
+
+benchmarking decode only...
+decode only total time: 0.024s
+decode fps: 2117.84
+
+benchmarking end-to-end...
+end-to-end total time: 7.755s
+end-to-end fps: 6.45
+
+if OCR fps >> end-to-end fps:
+decode is bottleneck
+
+
+
+TrOCR Benchmark Results
+
+benchmarking OCR only...
+OCR only total time: 29.220s
+OCR fps: 1.71
+
+benchmarking decode only...
+decode only total time: 0.027s
+decode fps: 1877.27
+
+benchmarking end-to-end...
+end-to-end total time: 29.327s
+end-to-end fps: 1.70
+
+if OCR fps >> end-to-end fps:
+decode is bottleneck
