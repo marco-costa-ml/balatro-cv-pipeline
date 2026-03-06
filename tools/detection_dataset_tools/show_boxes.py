@@ -2,8 +2,8 @@ import cv2
 import os
 
 # absolute paths
-img_path = r'C:\Users\Marco\Desktop\yolo\balatro_dataset\images\train\12697.png'
-label_path = r'C:\Users\Marco\Desktop\yolo\balatro_dataset\labels\train\12697.txt'
+img_path = r'external\yolo\balatro_dataset\images\train\12697.png'
+label_path = r'external\yolo\balatro_dataset\labels\train\12697.txt'
 
 # load image
 img = cv2.imread(img_path)

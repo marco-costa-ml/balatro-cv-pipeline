@@ -3,7 +3,7 @@ import json
 import re
 import os
 
-json_dir = r"C:\Users\Marco\Desktop\OCR\ocr_dataset"
+json_dir = r"external\OCR\ocr_dataset"
 
 json_files = glob.glob(os.path.join(json_dir, "*.json"))
 

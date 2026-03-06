@@ -2,8 +2,8 @@ import cv2
 import json
 import os
 
-img_path = r'C:\Users\Marco\Desktop\OCR\ocr_dataset\1000.png'
-label_path = r'C:\Users\Marco\Desktop\OCR\text_boxes.json'
+img_path = r'external\OCR\ocr_dataset\1000.png'
+label_path = r'external\OCR\text_boxes.json'
 
 # load image
 img = cv2.imread(img_path)

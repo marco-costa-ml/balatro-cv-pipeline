@@ -1,7 +1,7 @@
 import os
 import re
 
-folder = r"C:\Users\Marco\Desktop\yolo\batch_3"
+folder = r"external\yolo\batch_3"
 prefix = "batch3_"
 
 for filename in os.listdir(folder):

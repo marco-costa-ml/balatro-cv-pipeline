@@ -79,8 +79,8 @@ FIXED_LAST_8 = [
     (1.803571, 2.539286), (3.290179, 2.513393), (4.714286, 2.513393), (6.223214, 2.666964)
 ]
 
-DATA_DIR = Path(r"C:\Users\Marco\Desktop\yolo")
-#DATA_DIR = Path(r"C:\Users\Marco\Desktop\yolo\batch_2")
+DATA_DIR = Path(r"external\yolo")
+#DATA_DIR = Path(r"external\yolo\batch_2")
 
 class_df = pd.read_csv(DATA_DIR / 'yolo_classes.csv', header=None, names=["id", "name"])
 class_map = dict(zip(class_df["name"], class_df["id"]))
