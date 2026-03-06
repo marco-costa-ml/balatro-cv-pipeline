@@ -133,10 +133,8 @@ https://huggingface.co/datasets/marco-costa-ml/balatro-imitation-learning
 
 The dataset includes:
 
-* gameplay videos
 * detection outputs
 * OCR frame data
-* structured state representations
 
 ---
 
