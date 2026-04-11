@@ -30,7 +30,7 @@ The streamer's face has been intentionally blurred for privacy.
 
 ---
 
-# Example Model Outputs
+# Example Model Training Samples
 
 ## Object Detection
 
